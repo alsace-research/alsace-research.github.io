@@ -1,6 +1,6 @@
 # site settings
 title: Alsace Research
-subtitle: by HTML5 UP
+subtitle: Powered by HTML5 UP
 email: alsace-research@gmail.com
 description: A consulting business focused on modernizing into Cloud technology<br /> and focused on providing modern technology and analytics.
 baseurl:  # the subpath of your site, e.g. /blog
@@ -11,7 +11,7 @@ city: Pittsburgh
 state: PA
 zip_code: 15143
 country: United States of America
-phone: (716) 867-5309
+phone: (412) 867-5309
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

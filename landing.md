@@ -15,8 +15,7 @@ nav-menu: false
 		<header class="major">
 			<h2>Our Approach</h2>
 		</header>
-		<p>We provide technology analytics aimed at: Cost effective & revenue generating
-		 - Meant to answer future questions</p>
+		<p>Revenue generating technology & long-term cost effective solutions</p>
 	</div>
 </section>
 
@@ -31,7 +30,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Services</h3>
 				</header>
-				<p>We provide consulting services around advancing and simplifying technology for corporations and SBAs.  There is a range of services we offer:</p>
+				<p>We provide consulting services around advancing and simplifying technology for corporations and SBAs.  There is a range of consulting services we offer.</p>
 				<ul class="actions">
 					<li><a href="services.html" class="button">Learn more</a></li>
 				</ul>
@@ -47,7 +46,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Data Products</h3>
 				</header>
-				<p>We are an R&D shop.  One advantage to our business structure is we develop relevant data products that companies need.  We provide stategic data products that enrich and amplify any analysis contributing to bottom line revenue.</p>
+				<p>We are an R&D shop.  We share the Strategic Data Products from our proprietary models.</p>
 				<ul class="actions">
 					<li><a href="products.html" class="button">Learn more</a></li>
 				</ul>
@@ -63,7 +62,7 @@ nav-menu: false
 				<header class="major">
 					<h3>API</h3>
 				</header>
-				<p>Our API allows clients to explore through our extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding functions to enhance your business.</p>
+				<p>Our API allows clients to explore through our extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding services to enhance your business.</p>
 				<ul class="actions">
 					<li><a href="api.html" class="button next">Learn more</a></li>
 				</ul>
@@ -95,7 +94,7 @@ nav-menu: false
 		</header>
 		<p>Alsace Research is an research & development firm aimed at pushing technology forward while giving corporations and SBAs modern technology without all the overhead. 
 		<br />
-		Our research deals with leveraging data engingeering, data science, and geographic information systems/science (GIS) infrastructure and processes. Our goal is handle the overhead of R&D operations to allow corporations to pick and choose the data products they want in their business decisions.</p>
+		Our research deals with leveraging data engingeering, data science, and geographic information systems/science (GIS) infrastructure and processes. We handle a wide array of industries and sectors.</p>
 		<ul class="actions">
 			<li><a href="research.html" class="button next">Getting started</a></li>
 		</ul>

@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Alsace Research combines over eight years of development across a number of indutries.
+he firm started after working on projects across the petroleum, banking, precision agriculture, and insurance industries.  We aim to solve universal problems that each company endures and provide a standard solution that is low-cost to maintain and operate.

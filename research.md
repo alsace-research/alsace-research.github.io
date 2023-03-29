@@ -22,24 +22,24 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Quantifying Climate Risk</h3>
-		<p>The world is changing..</p>
+		<p>The world is changing.  We build statisticsl models that are geographic at their core.  This process provides a much better approach to achieving geographic diversification.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Earth Surveillance</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p>We surveille the globe. We use geospatial tools and satellite imagery/products to achieve this.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Actuarial Science</h3>
+		<p>We work with Actuaries to implement big data solutions and work side-by-side to implement the full actuarial business model.  Our bottom line is to drive revenue.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Cloud Technology</h3>
+		<p>We leverage distributed and open source tooling, lowering the cost transfored to the client.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Legacy System Assessment</h3>
+		<p>The key to our services is to lessen the technical debt of matured companies.  We implement long-term technical planning to better prepare for digital transformation.</p>
 	</div>
 </div>
 

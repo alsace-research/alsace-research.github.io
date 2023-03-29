@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: page
 title: Data products
 landing-title: 'Data Products'
 description: null

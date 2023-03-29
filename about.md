@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: post
 title: About Us
 landing-title: 'About Us'
 description: null

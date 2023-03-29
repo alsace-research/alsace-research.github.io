@@ -98,7 +98,7 @@ nav-menu: true
 		<br />
 		Our research deals with leveraging data engingeering, data science, and geographic information systems/science (GIS) infrastructure and processes. Our goal is handle the overhead of R&D operations to allow corporations to pick and choose the data products they want in their business decisions.</p>
 		<ul class="actions">
-			<li><a href="about.html" class="button next">Getting started</a></li>
+			<li><a href="research.html" class="button next">Getting started</a></li>
 		</ul>
 	</div>
 </section>

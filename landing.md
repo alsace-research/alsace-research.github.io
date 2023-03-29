@@ -24,7 +24,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="api.html" class="image">
+		<a href="services.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -34,13 +34,13 @@ nav-menu: true
 				</header>
 				<p>We provide consulting services around advancing and simplifying technology for corporations and SBAs.  There is a range of services we offer:</p>
 				<ul class="actions">
-					<li><a href="api.html" class="button">Learn more</a></li>
+					<li><a href="services.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="api.html" class="image">
+		<a href="products.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -50,7 +50,7 @@ nav-menu: true
 				</header>
 				<p>We are an R&D shop.  One advantage to our business structure is we develop relevant data products that companies need.  We provide stategic data products that enrich and amplify any analysis contributing to bottom line revenue.</p>
 				<ul class="actions">
-					<li><a href="api.html" class="button">Learn more</a></li>
+					<li><a href="products.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -83,7 +83,7 @@ nav-menu: true
 		Our goal is to make technological transition as cost-efficient and pain-free for clients.
 		</p>
 		<ul class="actions">
-			<li><a href="api.html" class="button next">Get Started</a></li>
+			<li><a href="about.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>

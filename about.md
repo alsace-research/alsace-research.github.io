@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-About...
+Alsace Research combines over eight years of development across a number of indutries.

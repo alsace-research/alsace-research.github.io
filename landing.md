@@ -75,17 +75,10 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Research</h2>
+			<h2>About Us</h2>
 		</header>
-		<p>Included is a detailed look at our focus at Alsace Research.  We forecast macro trends and attempt to provide solutions to business that will undergo transformations based on the macro trends.  These trends include a modernizing and changing world order that is heavily dependent on quantifying the change and forecasting that change.  
-		Topics: 
-		* Climate Change
-		* Disaster Response
-		* Actuarial Risk
-		* Diversifying Financial Portfolio by Unlocked Dimensions (Geographic Diversification)
-		* Retail Optimization
-		* Supply Chain Optimization
-		* Near-Term and Long-Term Migration Trends
+		<p>The firm started after working on projects across the petroleum, banking, precision agriculture, and insurance industries.  We aim to solve universal problems that each company endures and provide a standard solution that is low-cost to maintain and operate.
+		Our goal is to make technological transition as cost-efficient and pain-free for clients.
 		</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>

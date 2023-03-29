@@ -15,7 +15,8 @@ nav-menu: true
 		<header class="major">
 			<h2>Research</h2>
 		</header>
-		<p>Alsace Research is an research & development firm aimed at pushing technology forward while giving corporations and SBAs modern technology without all the overhead. <br />
+		<p>Alsace Research is an research & development firm aimed at pushing technology forward while giving corporations and SBAs modern technology without all the overhead. 
+		<br />
 		Our research deals with leveraging data engingeering, data science, and geographic information systems/science (GIS) infrastructure and processes. Our goal is handle the overhead of R&D operations to allow corporations to pick and choose the data products they want in their business decisions.</p>
 	</div>
 </section>
@@ -23,7 +24,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="api.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -33,13 +34,13 @@ nav-menu: true
 				</header>
 				<p>We provide consulting services around advancing and simplifying technology for corporations and SBAs.  There is a range of services we offer:</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="api.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="api.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -49,13 +50,13 @@ nav-menu: true
 				</header>
 				<p>We are an R&D shop.  One advantage to our business structure is we develop relevant data products that companies need.  We provide stategic data products that enrich and amplify any analysis contributing to bottom line revenue.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="api.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="api.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -65,7 +66,7 @@ nav-menu: true
 				</header>
 				<p>Our API allows clients to explore through our extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding functions to enhance your business.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="api.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -82,7 +83,7 @@ nav-menu: true
 		Our goal is to make technological transition as cost-efficient and pain-free for clients.
 		</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="api.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>

@@ -3,7 +3,7 @@ title: Landing
 layout: landing
 description: 'Our R&D contributes to a wide range of high-tech Strategic Data Products.'
 image: assets/images/pic07.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

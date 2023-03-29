@@ -6,6 +6,7 @@ description: null
 image: null
 author: null
 nav-menu: true
+show_tile: false
 ---
 
 **1. Earth Surveillance and Geospatial Data:**

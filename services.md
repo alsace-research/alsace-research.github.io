@@ -39,7 +39,6 @@ nav-menu: true
   - Predictive measures
   - Machine learning applications
 
-
 **4. Consulting**
   - Automation of manual processes
   - Communication
@@ -71,7 +70,7 @@ nav-menu: true
   - Remote sensing imagery feature extraction
   - Internet-of-things sources
   - Mobile device analytics
-  - Vehicular data sources
+  - Vehicular / Marine data sources
   - Retail and human behavior data
   - Legacy data clean up and management
   - Data aggregation and anonymization

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+description: Where we focus our insights
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

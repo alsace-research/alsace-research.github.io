@@ -13,11 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Research</h2>
+			<h2>Our Approach</h2>
 		</header>
-		<p>Alsace Research is an research & development firm aimed at pushing technology forward while giving corporations and SBAs modern technology without all the overhead. 
-		<br />
-		Our research deals with leveraging data engingeering, data science, and geographic information systems/science (GIS) infrastructure and processes. Our goal is handle the overhead of R&D operations to allow corporations to pick and choose the data products they want in their business decisions.</p>
+		<p>We provide technology analytics aimed at:
+		 - Cost effective & revenue generating
+		 - Meant to answer future questions</p>
 	</div>
 </section>
 
@@ -66,7 +66,7 @@ nav-menu: true
 				</header>
 				<p>Our API allows clients to explore through our extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding functions to enhance your business.</p>
 				<ul class="actions">
-					<li><a href="api.html" class="button">Learn more</a></li>
+					<li><a href="api.html" class="button next">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -83,9 +83,25 @@ nav-menu: true
 		Our goal is to make technological transition as cost-efficient and pain-free for clients.
 		</p>
 		<ul class="actions">
-			<li><a href="about.html" class="button next">Get Started</a></li>
+			<li><a href="about.html" class="button">Learn more</a></li>
 		</ul>
 	</div>
 </section>
+
+<!-- Four -->
+<section id="four">
+	<div class="inner">
+		<header class="major">
+			<h2>Research</h2>
+		</header>
+		<p>Alsace Research is an research & development firm aimed at pushing technology forward while giving corporations and SBAs modern technology without all the overhead. 
+		<br />
+		Our research deals with leveraging data engingeering, data science, and geographic information systems/science (GIS) infrastructure and processes. Our goal is handle the overhead of R&D operations to allow corporations to pick and choose the data products they want in their business decisions.</p>
+		<ul class="actions">
+			<li><a href="about.html" class="button next">Getting started</a></li>
+		</ul>
+	</div>
+</section>
+
 
 </div>

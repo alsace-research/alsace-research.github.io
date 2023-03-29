@@ -5,7 +5,7 @@ landing-title: 'Services'
 description: null
 image: null
 author: null
-nav-menu: false
+nav-menu: true
 ---
 
 **1. Earth Surveillance and Geospatial Data:**

@@ -3,7 +3,7 @@ layout: post
 title: API
 description: How we serve our clients
 image: assets/images/flooded_castle_1.png
-nav-menu: false
+nav-menu: true
 ---
 
 We provide our clients with access to our commercial API.  We use this method to standardize and simplify how clients obtain our insights and integrate Alsace Research data products into their own systems.

@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: Data Products
 landing-title: 'Data Products'
 description: null
 image: null
 author: null
 nav-menu: true
+show_tile: false
 ---
 
 Products assessed:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Services
 landing-title: 'Services'
 description: null

@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Data products
+title: Data Products
 landing-title: 'Data Products'
 description: null
 image: null
 author: null
-show_tile: false
 nav-menu: true
 ---
 

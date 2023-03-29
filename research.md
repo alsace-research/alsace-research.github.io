@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description: Where we focus our insights
-image: assets/images/pic01.jpg
+image: assets/images/alexandria.jpg
 nav-menu: true
 ---
 

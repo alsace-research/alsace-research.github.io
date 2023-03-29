@@ -15,8 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Our Approach</h2>
 		</header>
-		<p>We provide technology analytics aimed at:
-		 - Cost effective & revenue generating
+		<p>We provide technology analytics aimed at: Cost effective & revenue generating
 		 - Meant to answer future questions</p>
 	</div>
 </section>

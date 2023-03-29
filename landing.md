@@ -13,9 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Research</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Alsace Research is an research & development firm aimed at pushing technology forward while giving corporations and SBAs modern technology without all the overhead. <br />
+		Our research deals with leveraging data engingeering, data science, and geographic information systems/science (GIS) infrastructure and processes. Our goal is handle the overhead of R&D operations to allow corporations to pick and choose the data products they want in their business decisions.</p>
 	</div>
 </section>
 
@@ -28,9 +29,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Services</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We provide consulting services around advancing and simplifying technology for corporations and SBAs.  There is a range of services we offer:</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +45,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Data Products</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We are an R&D shop.  One advantage to our business structure is we develop relevant data products that companies need.  We provide stategic data products that enrich and amplify any analysis contributing to bottom line revenue.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,9 +61,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>API</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Our API allows clients to explore through our extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding functions to enhance your business.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

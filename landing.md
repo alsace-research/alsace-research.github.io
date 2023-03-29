@@ -78,7 +78,6 @@ nav-menu: true
 			<h2>Research</h2>
 		</header>
 		<p>Included is a detailed look at our focus at Alsace Research.  We forecast macro trends and attempt to provide solutions to business that will undergo transformations based on the macro trends.  These trends include a modernizing and changing world order that is heavily dependent on quantifying the change and forecasting that change.  
-
 		Topics: 
 		* Climate Change
 		* Disaster Response

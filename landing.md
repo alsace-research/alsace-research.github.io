@@ -15,7 +15,7 @@ nav-menu: false
 		<header class="major">
 			<h2>Our Approach</h2>
 		</header>
-		<p>Revenue generating technology & long-term cost effective solutions</p>
+		<p>Technology that generates revenue & long-term cost effective solutions</p>
 	</div>
 </section>
 

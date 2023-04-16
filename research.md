@@ -18,7 +18,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Insights in Focus</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>We build with open source and cloud based products.  We span across Amazon Web Services (AWS), Microsoft Azure, and Google's Cloud Platform (GCP).  We have experience building solutions migrating to the cloud or building hybrid setups that leverage existing systems and gaining the cloud functionality.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Quantifying Climate Risk</h3>

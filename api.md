@@ -19,3 +19,5 @@ The API spans a number of industries and domains:
 * Retail Optimization
 
 We provide proprietary models that statistically tested.  Our models aim to provide modern R&D that companies can simplify import directly into their workflows.
+
+*Commercial API is under construction.*

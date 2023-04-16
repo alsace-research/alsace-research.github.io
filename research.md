@@ -35,7 +35,7 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Cloud Technology</h3>
-		<p>We leverage distributed and open source tooling, lowering the cost transfored to the client.</p>
+		<p>We leverage distributed and open source tooling, lowering the cost transfored to the client.  We use cloud agnostic software while providing experience between Amazong Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Legacy System Assessment</h3>

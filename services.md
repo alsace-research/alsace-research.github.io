@@ -11,7 +11,7 @@ show_tile: false
 
 **1. Earth Surveillance and Geospatial Data:**
   - Geospatial data management
-  - Peta-byte scale analysis
+  - Terra-byte scale analysis
   - Data pipelining: batch / streaming
   - Measure financial exposure to weather events
   - Track assets: static, dynamic

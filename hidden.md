@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
+title: Hidden
 description: Where we focus our insights
 image: assets/images/alexandria.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

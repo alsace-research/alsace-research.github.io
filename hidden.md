@@ -4,6 +4,7 @@ title: Hidden
 description: Where we focus our insights
 image: assets/images/alexandria.jpg
 nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->

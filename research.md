@@ -4,6 +4,7 @@ title: Research
 description: Where we focus our insights
 image: assets/images/alexandria.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->

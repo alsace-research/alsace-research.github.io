@@ -2,7 +2,7 @@
 layout: post
 title: API
 description: How we serve our clients
-image: assets/images/pic07.jpg
+image: assets/images/pic10.jpg
 nav-menu: true
 ---
 

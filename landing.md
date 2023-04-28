@@ -15,7 +15,7 @@ nav-menu: false
 		<header class="major">
 			<h2>Our Approach</h2>
 		</header>
-		<p>Technology that generates revenue & long-term cost effective solutions</p>
+		<p>Technology that generates revenue, phases off of technical debt, & provides long-term cost effective solutions</p>
 	</div>
 </section>
 
@@ -30,7 +30,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Services</h3>
 				</header>
-				<p>We provide consulting services around advancing and simplifying technology for corporations and SBAs.  There is a range of consulting services we offer.</p>
+				<p>We provide consulting services around advancing and simplifying technology for corporations and SBAs.  There is a range of consulting services offered.</p>
 				<ul class="actions">
 					<li><a href="services.html" class="button">Learn more</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Data Products</h3>
 				</header>
-				<p>We are an R&D shop.  We share the Strategic Data Products from our proprietary models.</p>
+				<p>The core business is Research & Development.  We offer the latest analytics R&D to clients.  Our products provide insights that are not yet mainstream.  The products drive business decision making in an dimension commonly not utilized.</p>
 				<ul class="actions">
 					<li><a href="products.html" class="button">Learn more</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: false
 				<header class="major">
 					<h3>API</h3>
 				</header>
-				<p>Our API allows clients to explore through our extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding services to enhance your business.</p>
+				<p>The API allows clients to explore through our extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding services to enhance your business.</p>
 				<ul class="actions">
 					<li><a href="api.html" class="button next">Learn more</a></li>
 				</ul>

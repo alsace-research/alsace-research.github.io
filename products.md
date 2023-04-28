@@ -11,7 +11,7 @@ show_tile: false
 
 **1. Earth Surveillance and Geospatial Data:**
 
-Our analytics are unique.  They are targeted to professionals in the financial services industry to calculate financial risk from climate change events to better manage current and future assets.
+Our analytics are unique.  They are targeted toward professionals in the financial services industry to be able to calculate financial risk from climate change events to better manage current and future assets.
 
 We provide data by Geography, which means we take the location or coordinate (say of a potential real estate transaction) and return the associated climate risk statistics to quanitfy expected loss.
 

@@ -46,7 +46,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Data Products</h3>
 				</header>
-				<p>The core business is Research & Development.  We offer the latest analytics R&D to clients.  Our products provide insights that are not yet mainstream.  The products drive business decision making in an dimension commonly not utilized.</p>
+				<p>The core business is Research & Development.  We offer the latest R&D analytics to clients.  Our products provide insights that are not yet mainstream.  The products drive business decision making in an dimension commonly not utilized.</p>
 				<ul class="actions">
 					<li><a href="products.html" class="button">Learn more</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: false
 				<header class="major">
 					<h3>API</h3>
 				</header>
-				<p>The API allows clients to explore through our extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding services to enhance your business.</p>
+				<p>The API allows clients to explore an extensive library of proprietary data products.  The API can deliver raster, vector, imagery, and geocoding services to enhance your business.</p>
 				<ul class="actions">
 					<li><a href="api.html" class="button next">Learn more</a></li>
 				</ul>

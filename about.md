@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-The firm started after working on projects across the petroleum, banking, precision agriculture, and insurance industries.  We aim to solve universal problems that each company endures and provide a standard solution that is low-cost to maintain and operate.
+The company started after having worked on projects across petroleum, banking, precision agriculture, and insurance industries.  The aim is to solve universal problems and reduce technical debt that has plagued US corporations and businesses while giving options for modernizing or even just accessing the most modern tools as they're released.

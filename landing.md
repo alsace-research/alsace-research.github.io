@@ -110,10 +110,10 @@ nav-menu: false
 		<br />
 		Keep posted for updated blog posts, features, and announcements.</p>
 		<ul class="actions">
-			<li><a href="all-posts.html" class="button next">Blog</a></li>
+			<li><a href="allposts.html" class="button next">Blog</a></li>
 		</ul>
-	</div>
+		</div>
 </section>
 
 
-</div>
+

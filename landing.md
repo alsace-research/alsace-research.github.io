@@ -99,6 +99,20 @@ nav-menu: false
 			<li><a href="research.html" class="button next">Getting started</a></li>
 		</ul>
 	</div>
+
+<!-- Five -->
+<section id="four">
+	<div class="inner">
+		<header class="major">
+			<h2>Blog</h2>
+		</header>
+		<p>Features of our methodology and data products
+		<br />
+		Keep posted for updated blog posts, features, and announcements.</p>
+		<ul class="actions">
+			<li><a href="all-posts.html" class="button next">Blog</a></li>
+		</ul>
+	</div>
 </section>
 
 

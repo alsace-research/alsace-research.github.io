@@ -99,6 +99,7 @@ nav-menu: false
 			<li><a href="research.html" class="button next">Getting started</a></li>
 		</ul>
 	</div>
+</section>
 
 <!-- Five -->
 <section id="five">

@@ -101,7 +101,7 @@ nav-menu: false
 	</div>
 
 <!-- Five -->
-<section id="four">
+<section id="five">
 	<div class="inner">
 		<header class="major">
 			<h2>Blog</h2>

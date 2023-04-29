@@ -19,6 +19,22 @@ nav-menu: false
 	</div>
 </section>
 
+<!-- Five -->
+<section id="five">
+	<div class="inner">
+		<header class="major">
+			<h2>Blog</h2>
+		</header>
+		<p>Features of our methodology and data products
+		<br />
+		Keep posted for updated blog posts, features, and announcements.</p>
+		<ul class="actions">
+			<li><a href="all_posts.html" class="button next">Blog</a></li>
+		</ul>
+	</div>
+</section>
+
+
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>

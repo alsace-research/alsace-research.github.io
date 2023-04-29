@@ -112,5 +112,5 @@ nav-menu: false
 		<ul class="actions">
 			<li><a href="all_posts.html" class="button next">Blog</a></li>
 		</ul>
-		</div>
+	</div>
 </section>

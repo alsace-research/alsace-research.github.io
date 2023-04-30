@@ -4,6 +4,7 @@ title: API
 description: How we serve our clients
 image: assets/images/pic10.jpg
 nav-menu: false
+show_tile: false
 ---
 
 ### *Commercial API is under construction.*

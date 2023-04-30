@@ -3,7 +3,7 @@ layout: post
 title: API
 description: How we serve our clients
 image: null
-nav-menu: false
+nav-menu: true
 show_tile: false
 ---
 

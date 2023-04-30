@@ -1,7 +1,7 @@
 # site settings
 title: Alsace Research
 subtitle: Powered by HTML5 UP
-email: alsace-research@gmail.com
+email: harried.tour-0q@icloud.com
 description: We modernize corporations and SBAs.<br /> We deliver modern technology and analytics R&D.
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: Pittsburgh
 state: PA
 zip_code: 15143
 country: United States of America
-phone: (412) 867-5309
+phone: Inquire via email
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

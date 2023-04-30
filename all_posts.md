@@ -3,8 +3,8 @@ layout: allposts
 title: Blog
 landing-title: 'All posts'
 nav-menu: true
-description: null
-image: null
+description: 'Published R&D'
+image: assets/images/banner.jpg
 author: null
 show_tile: true
 ---

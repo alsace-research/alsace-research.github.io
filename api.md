@@ -3,10 +3,10 @@ layout: post
 title: API
 description: How we serve our clients
 image: assets/images/pic10.jpg
-nav-menu: true
+nav-menu: false
 ---
 
-*Commercial API is under construction.*
+### *Commercial API is under construction.*
 
 We provide our clients with access to our commercial API.  We use this method to standardize and simplify how clients obtain our insights and integrate Alsace Research data products into their own systems.
 

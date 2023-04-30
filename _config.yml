@@ -6,7 +6,7 @@ description: We modernize corporations and SBAs.<br /> We deliver modern technol
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Little Big Road
+street_address: Sewickley
 city: Pittsburgh
 state: PA
 zip_code: 15143

@@ -42,7 +42,7 @@ Here are a few showcases of prior work:
 ### **First National Bank of Pennsylvania**
 
 * Regional Banking - Retail Network Optimization
-* Generated Recommendations for DeNovo, 2-for-1 / 3-for-1, and Consolidations Actions across 350 bank branches.
+* Generated Recommendations for DeNovo, 2-for-1 / 3-for-1, and Consolidations across 350 bank branches.
   
 <br>
 

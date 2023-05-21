@@ -32,9 +32,9 @@ Here are a few showcases of prior work:
 <br>
 
 * Regulatory compliance was a part of the daily Operations at an largest natural gas producer in the US
-* I supported petroleum geologists and engineers using a mix of enterprise ESRI, web mapping, open-source tools, legacy ERP systems, and Microsoft Axure Cloud products.
-* I saw how to integrate GIS across an enterprise in an open-source & closed-source way.  It was the first professional experience being exposed to open-source GIS and cloud.
-* This is where I first started learning Python
+* I supported petroleum geologists and engineers using a mix of enterprise ESRI, web mapping, open-source tools, legacy ERP systems, and Microsoft Azure Cloud.
+* I saw GIS integrated across an enterprise in an open-source & closed-source way.  It was the first professional experience being exposed to open-source GIS and cloud.  This is where I first started learning Python.
+
 
 <br>
 

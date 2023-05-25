@@ -8,6 +8,9 @@ show_tile: false
 ---
 
 ### *Commercial API is under construction.*
+<br>
+
+**API access is available here:** https://alsace-research-api.herokuapp.com/docs#/
 
 We provide our clients with access to our commercial API.  We use this method to standardize and simplify how clients obtain our insights and integrate Alsace Research data products into their own systems.
 
@@ -27,8 +30,11 @@ We provide proprietary models that statistically tested.  Our models aim to prov
 **How our API works**
 
 1. Input your business asset locations or street address in an JSON object
-2. Make POST command on the Alsace Research API
+2. Make POST command on the Alsace Research API <br>
+
 ![image info](/assets/images/api_query.png)
-1. Response returns the tornado statistics: tornado_count & average_frequency.
+3. Response returns the tornado statistics: tornado_count & average_frequency.
+<br>
 ![image info](/assets/images/api_response.png)
-1. Run analytics across your portfolio
+<br>
+4. Run analytics across your portfolio

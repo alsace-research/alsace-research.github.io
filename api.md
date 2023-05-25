@@ -24,3 +24,11 @@ The API spans a number of industries and domains:
 We provide proprietary models that statistically tested.  Our models aim to provide modern R&D that companies can simplify import directly into their workflows.
 
 
+**How our API works**
+
+1. Input your business asset locations or street address in an JSON object
+2. Make POST command on the Alsace Research API
+![image info](/assets/images/api_query.png)
+1. Response returns the tornado statistics: tornado_count & average_frequency.
+![image info](/assets/images/api_response.png)
+1. Run analytics across your portfolio

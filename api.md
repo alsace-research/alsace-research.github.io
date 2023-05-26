@@ -10,7 +10,7 @@ show_tile: false
 ### *Commercial API is under construction.*
 <br>
 
-**API access is available here:** https://alsace-research-api.herokuapp.com/docs#/
+**API access is available here:** [Alsace Research API](https://alsace-research-api.herokuapp.com/docs#/)
 
 We provide our clients with access to our commercial API.  We use this method to standardize and simplify how clients obtain our insights and integrate Alsace Research data products into their own systems.
 

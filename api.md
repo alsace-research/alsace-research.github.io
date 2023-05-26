@@ -30,11 +30,11 @@ We provide proprietary models that statistically tested.  Our models aim to prov
 **How our API works**
 
 1. Input your business asset locations or street address in an JSON object
-2. Make POST command on the Alsace Research API <br>
+2. Make POST command on the Alsace Research API
 
 ![image info](/assets/images/api_query.png)
 3. Response returns the tornado statistics: tornado_count & average_frequency.
-<br>
+
 ![image info](/assets/images/api_response.png)
-<br>
+
 4. Run analytics across your portfolio

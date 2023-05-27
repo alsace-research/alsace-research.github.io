@@ -8,7 +8,6 @@ show_tile: true
 ---
 
 ### *Commercial API is under construction.*
-<br>
 
 ### **API access is available here:** [Alsace Research API](https://alsace-research-api.herokuapp.com/docs#/)
 
@@ -31,12 +30,13 @@ Our data products are the result of rigorous testing and rely on proprietary mod
 
 **How our API works**
 
-1. Input your business asset locations or street addresses in an JSON object
+1. Input your business asset locations or street addresses in an JSON object: i.e. insured assets or real estate properties, vehicles, boats, etc.
 2. Make POST command on the Alsace Research API
-
-![image info](/assets/images/api_input.png)
-3. Response returns the tornado statistics: average frequency, tornado_count
-
-![image info](/assets/images/api_output.png)
-
+3. Response returns the tornado statistics: average frequency, tornado_count, event_history, fatalities_stats, injuries_stats, and magnitude_mean.
 4. Run analytics across your portfolio
+
+**An example input into the API**
+![image info](/assets/images/api_input.png)
+
+**An example response from the API**
+![image info](/assets/images/api_output.png)

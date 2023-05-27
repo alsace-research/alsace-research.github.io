@@ -9,18 +9,21 @@ nav-menu: true
 show_tile: false
 ---
 
-**1. Earth Surveillance and Geospatial Data:**
+**Earth Surveillance and Geospatial Data Products**
 
-Our analytics are unique.  They are targeted toward professionals in the financial services industry to be able to calculate financial risk from climate change events to better manage current and future assets.
+Our analytics offer a distinctive value proposition tailored specifically for professionals in the financial services industry. We enable these professionals to accurately assess financial risks stemming from climate change events, empowering them to effectively manage their current and future assets.
 
-We provide data by Geography, which means we take the location or coordinate (say of a potential real estate transaction) and return the associated climate risk statistics to quanitfy expected loss.
+Our specialization lies in offering the following key services:
 
-We specialize in providing:
-- Aggregated Statistics by H3
-- Average Frequency by Geography
-- Days between Events by Geography
-- Years between Events by Geography
+ * **Aggregated Statistics by H3**: We aggregate essential data points using the H3 system, providing comprehensive insights into risk assessment.
+ * **Average Frequency by Geography**: We furnish information on the average occurrence of climate events in specific geographical areas, aiding in the evaluation of associated risks.
+ * **Days between Events by Geography**: By analyzing historical data, we determine the time intervals between climate events, enabling a deeper understanding of the frequency and severity of such occurrences.
+ * **Years between Events by Geography**: Our expertise allows us to calculate the number of years separating climate events within different geographic regions, assisting in long-term risk assessments.
+  
 
-Perils Available:
-- Tornado
-- Hurricane
+We currently offer analysis for two prominent perils:
+
+ * **Tornadoes**: Our data encompasses tornado-related risk factors, enabling clients to comprehensively evaluate the potential impact on their assets.
+ * **Hurricanes**: We provide insightful data related to hurricanes, empowering financial professionals to make informed decisions regarding risk management.
+
+By leveraging our comprehensive Earth surveillance and geospatial data services, financial professionals can gain valuable insights to effectively mitigate climate-related risks. Our precise analytics and tailored solutions support data-driven decision-making, enhancing overall risk management strategies.

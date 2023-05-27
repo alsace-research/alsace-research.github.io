@@ -12,7 +12,7 @@ show_tile: true
 
 ### **API access is available here:** [Alsace Research API](https://alsace-research-api.herokuapp.com/docs#/)
 
-We provide our clients with access to our commercial API.  We use this method to standardize and simplify how clients obtain our insights and integrate Alsace Research data products into their own systems.
+At Alsace Research, we are dedicated to providing our clients with a streamlined and efficient means of accessing our data products. To facilitate this, we are developing a state-of-the-art Commercial API that offers seamless integration and simplifies the process of incorporating our insights into your systems.
 
 The API spans a number of industries and domains:
 * Finance
@@ -24,7 +24,9 @@ The API spans a number of industries and domains:
 * Geocoding
 * Retail Optimization
 
-We provide data products from proprietary models that have been statistically tested.  Our models aim to provide modern R&D that companies can quickly import direct into their existing models and workflows.
+Our data products are the result of rigorous testing and rely on proprietary models. We strive to deliver cutting-edge research and development, allowing companies to seamlessly import our data directly into their existing models and workflows.
+
+
 
 
 **How our API works**

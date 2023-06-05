@@ -5,7 +5,7 @@ landing-title: 'CV'
 description: Past Works
 image: null
 author: null
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

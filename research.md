@@ -24,29 +24,29 @@ show_tile: false
 
 	<div class="6u 12u$(small)">
 		<h3>Geospatial / Geographic Information Systems (GIS)</h3>
-		<p>At the intersection of people, places, and resources, lies the bedrock of our business—Geography. It forms the heart of our Geospatial pipeline, which expertly navigates and processes these intricate logistics. Our GIS tools, currently a niche market offering, have the potential to revolutionize private industry. Our GIS knowledge empowers us to forecast and predict financial risks in ways beyond human capacity. By integrating this data within your enterprise, we ensure that every department reaps the benefits, optimizing the management and operational efficiency of businesses over time.</p>
+		<p>Think about the relationships between people, places, and resources; these are the foundations of Geography and key to our unique offering. We've built systems that use this geographic information to help you manage business logistics more effectively. While still a specialized tool, the potential of these systems is largely untapped in private industry. This information can help anticipate financial risks in a way that humans can't do alone. By weaving this data into your business operations, we aim to boost efficiency and performance across the board.</p>
 	</div>
 
 	<div class="6u 12u$(small)">
 		<h3>Climate Risk Quantification: A New Lens to Evaluate Business Vulnerability</h3>
-		<p>In our rapidly changing world, quantifying climate risk is more critical than ever. Our proprietary statistical models, embedded with geographical nuances, enable businesses to quantify risk across their portfolio. The process is simple: we analyze your asset locations and generate a multitude of variables that provide a clear climate change quantification framework. This, in turn, allows businesses to analyze and predict change over time, safeguarding against potential financial pitfalls.</p>
+		<p>Climate change is affecting the business world, making it essential to understand and quantify the risks. Our models, which take into account geographical factors, allow businesses to measure these risks across all their assets. Simply put, we take a close look at where your assets are, return a detailed report about climate-related risks, and provide a timeline for potential changes. This information can help protect your business against unexpected financial losses.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Cloud Technology: The Key to Scalable Solutions</h3>
-		<p>We leverage distributed and open source tooling, lowering the cost transferred to the client.  We use cloud agnostic software while providing experience between Amazong Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).  We aim to modernize companies and/or simply enable them to leverage the latest technology without dramatically changing their business infrastructure.  The cloud enables scaling process that let us build a digital twin of the earth and earth processes.</p>
+		<p>We use innovative tools to keep costs down while ensuring you reap the benefits of advanced technology. Our technology is flexible, supporting major platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Our goal is to bring your business up to speed with the latest tech advancements without causing major upheavals in your existing setup. Thanks to the scalability of cloud technology, we can create a detailed digital model of the Earth and its processes.</p>
 	</div>
 
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>The Intersection of Actuarial Science and Earth Surveillance</h3>
-		<p>We work with Actuaries to implement big data solutions and advanced financial calculations.  We help make the connection between financial assets and how risk can change your performance forecasts.  We integrate their pricing models with our earth surveillance systems.</p>
+		<p>We partner with Actuaries, harnessing big data and complex financial calculations to strengthen your financial forecasts. By blending their pricing models with our cutting-edge earth surveillance systems, we connect the dots between your financial assets and environmental risk factors.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Earth Surveillance: Your Eye on the Globe</h3>
-		<p>We surveil the globe. We use geospatial tools and satellite imagery/products to achieve this.  We know when financial exposure and disaster occurs.  We model the entire globe... no longer do we look at just our own country.</p>
+		<p>We surveil the globe. We use geospatial tooWe keep a close watch on the entire globe using geographical tools and satellite images. This allows us to spot financial risks and natural disasters before they affect your business. We're not just focused on local or national events; our models cover the entire globe, giving your business a broader perspective</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Legacy System Assessment: Reducing Your Technical Debt</h3>
-		<p>The key to our services is to lessen the technical debt of newer and matured companies.  We implement long-term technical planning to better prepare for digital transformation.</p>
+		<p>We're dedicated to reducing the technical debt that can slow down both new and established businesses. Our focus is on strategic, long-term planning to better prepare your business for a smooth transition into the digital age.</p>
 	</div>
 </div>

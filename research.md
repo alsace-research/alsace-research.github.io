@@ -23,12 +23,12 @@ show_tile: false
 <div class="row">
 
 	<div class="6u 12u$(small)">
-		<h3>Geospatial / Geographic Information Systems (GIS)</h3>
+		<h3>Geospatial / GIS</h3>
 		<p>Think about the relationships between people, places, and resources; these are the foundations of Geography and key to our unique offering. We've built systems that use this geographic information to help you manage business logistics more effectively. While still a specialized tool, the potential of these systems is largely untapped in private industry. This information can help anticipate financial risks in a way that humans can't do alone. By weaving this data into your business operations, we aim to boost efficiency and performance across the board.</p>
 	</div>
 
 	<div class="6u 12u$(small)">
-		<h3>Climate Risk Quantification: A New Lens to Evaluate Business Vulnerability</h3>
+		<h3>Climate Risk: A New Lens to Evaluate Business Vulnerability</h3>
 		<p>Climate change is affecting the business world, making it essential to understand and quantify the risks. Our models, which take into account geographical factors, allow businesses to measure these risks across all their assets. Simply put, we take a close look at where your assets are, return a detailed report about climate-related risks, and provide a timeline for potential changes. This information can help protect your business against unexpected financial losses.</p>
 	</div>
 	<div class="12u$ 12u$(small)">

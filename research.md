@@ -30,6 +30,16 @@ show_tile: false
 		<p>We leverage distributed and open source tooling, lowering the cost transferred to the client.  We use cloud agnostic software while providing experience between Amazong Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).  We aim to modernize companies and/or simply enable them to leverage the latest technology without dramatically changing their business infrastructure.</p>
 	</div>
 
+	<div class="6u 12u$(small)">
+		<h3>Quantifying Climate Risk</h3>
+		<p>The world is changing.  We build statisticsl models that are geographic at their core.  This process allows businesses to quanitfy the varying degrees of risk across their entire exposed risk assets and real estate.  We simply lookup your asset locations and return a large number of variable that quantify climate change and provides a framework for analyzing change through time. </p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Cloud Technology</h3>
+		<p>We leverage distributed and open source tooling, lowering the cost transferred to the client.  We use cloud agnostic software while providing experience between Amazong Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).  We aim to modernize companies and/or simply enable them to leverage the latest technology without dramatically changing their business infrastructure.</p>
+	</div>
+
+
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Actuarial Science</h3>

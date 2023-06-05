@@ -31,7 +31,7 @@ show_tile: false
 		<h3>Climate Risk Quantification: A New Lens to Evaluate Business Vulnerability</h3>
 		<p>Climate change is affecting the business world, making it essential to understand and quantify the risks. Our models, which take into account geographical factors, allow businesses to measure these risks across all their assets. Simply put, we take a close look at where your assets are, return a detailed report about climate-related risks, and provide a timeline for potential changes. This information can help protect your business against unexpected financial losses.</p>
 	</div>
-	<div class="3u$ 12u$(small)">
+	<div class="12u$ 12u$(small)">
 		<h3>Cloud Technology: The Key to Scalable Solutions</h3>
 		<p>We use innovative tools to keep costs down while ensuring you reap the benefits of advanced technology. Our technology is flexible, supporting major platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Our goal is to bring your business up to speed with the latest tech advancements without causing major upheavals in your existing setup. Thanks to the scalability of cloud technology, we can create a detailed digital model of the Earth and its processes.</p>
 	</div>

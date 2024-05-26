@@ -3,10 +3,10 @@ title: Alsace Research
 subtitle: Powered by HTML5 UP
 email: alsace.research@gmail.com
 description: We modernize corporations and SBAs.<br /> We deliver modern technology and analytics R&D.
-baseurl:  "/blog"
+# baseurl:  "/blog"
 url: # the base hostname & protocol for your site
 
-permalink: /:categories/:year/:month/:day/:title/
+# permalink: /:categories/:year/:month/:day/:title/
 
 
 author:
